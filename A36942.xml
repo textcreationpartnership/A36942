@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the author of the reply to a late paper called A full answer to Dr. Tenison's conferences concerning the Eucharist</title>
+            <author>Darrell, William, 1651-1721.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36942</idno><idno type="EEBO-CITATION">14400307</idno>
+  <idno type="VID">102316</idno>
+  <idno type="EEBO-PROQUEST">2240862425</idno>
+  
+            <idno type="STC">Wing D268</idno>
+            <idno type="STC">ESTC R34421</idno>
+            <idno type="OCLC">14400307</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102316)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1057:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the author of the reply to a late paper called A full answer to Dr. Tenison's conferences concerning the Eucharist</title>
+                  <author>Darrell, William, 1651-1721.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: W.D.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">La Placette, Jean, 1629-1718. --  Six conferences concerning the Eucharist.</term>
+               <term type="corporate_name">Catholic Church --  Apologetic works.</term>
+               <term type="topical_term">Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:102316:1"/>
+            <head>A LETTER To the AUTHOR of the REPLY to a late PAPER CALLED <hi>A full Answer to Dr.</hi> Tenison<hi>'s Conferences concerning the</hi> EUCHARIST.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am so great a Friend to Truth, that I cannot sufficiently express the favor you have done me in opening my mistake; yet give me leave so far to justifie my self, as to assure you, the same grounds which drew my Friend and me into the Error, has deceived many even of the Doctor's Admirers; and for my part I think it no dis<g ref="char:EOLhyphen"/>grace to be mistaken in so good Company, and upon so good grounds too; for I always thought that the common practice of <hi>Publishers</hi> was, either to let the world know the Author's Name, or at least to disown themselves the Work; but not read<g ref="char:EOLhyphen"/>ing this piece of ingenuity in the front of the English Conferences, my Friend and I miss'd our way. However, if my Friend and I <hi>must guess again,</hi> you must write again; for I am sure you are not less over-seen in thinking my Paper answered, than We in imagi<g ref="char:EOLhyphen"/>ning the Doctor to be the Author of the Conferences. This I will demonstrate in the first place, and then perchance, <hi>ex abundanti,</hi> I will touch some things in your Paper, neither spoken to the pur<g ref="char:EOLhyphen"/>pose, nor proved with reason.</p>
+            <pb n="2" facs="tcp:102316:2"/>
+            <p>The Author of the <hi>Six Conferences</hi> puts the stress of his whole Discourse on this Principle, <hi>That if Transubstantiation were one of the Doctrins of Christianity, Christian Religion would be opposed with greater strength than it can be maintained, because one might oppose against it whatever is offered against Transubstantiation, viz.</hi> all evidence of sense. I retorted the Argument, saying, That the same <hi>medi<g ref="char:EOLhyphen"/>um</hi> would throw down all Authority of Scripture, because before a Pagan can be convinced of the Truth of Scripture, he must confess that <hi>Abraham</hi>'s senses were deceived, and by consequence that it is possible for <hi>his own</hi> to be so. Now, according to the Author of the <hi>Six Conferences,</hi> a Heathen hath greater evidence of the <hi>Infal<g ref="char:EOLhyphen"/>libility of his Senses,</hi> than of the <hi>Truth of the holy Scriptures;</hi> there<g ref="char:EOLhyphen"/>fore he hath a stronger Argument to retain him from assenting to them, than to move him to embrace them. Now, <hi>Sir,</hi> if you think to enervate my Discourse with those Arguments you are pleased to expose in Print, <hi>your Reason</hi> is as much deceived as <hi>Abraham's Senses;</hi> and if you intend to convince Men of their solidity, you must imagin their capacities to be as shallow as your own.</p>
+            <p>You answer thus: <hi>They that appeared to</hi> Abraham <hi>in the</hi> 18th <hi>of</hi> Genesis, <hi>for ought can be proved, did for that time assume the real Bo<g ref="char:EOLhyphen"/>dies of men;</hi> and then you back your Assertion with a killing Paren<g ref="char:EOLhyphen"/>thesis, <hi>It should seem so by their eating.</hi> Now, <hi>Sir,</hi> if I reply, <hi>For ought can be proved they did not assume real Bodies;</hi> have I not as good an end of the Staff as you? Nay, the Angel <hi>Raphael</hi> told <hi>Tobias,</hi> (I suppose you will deny not the Story, tho' according to you it be not Scripture) <hi>he did not really eat, but seemed so to do.</hi> Whence, in my opinion, it may very probably be concluded, he had no man's Body, but only in appearance, otherwise he might have eaten as re<g ref="char:EOLhyphen"/>ally as <hi>Tobias.</hi> But because you thought men would not much rely on this weak Answer, you go to another; telling us, there is no parity between the <hi>deceptio visus</hi> of <hi>Abraham,</hi> and <hi>ours</hi> in the <hi>Eucharist.</hi> But why, <hi>Sir?</hi> because <hi>'tis certain that to the making of that Creature, which we call a Man, there goes something more than what is visible to the eye,</hi> viz. <hi>a human Soul; and whether</hi> that <hi>were there or no, or an Angel in the room of it, was more than</hi> Abraham <hi>cou'd certainly discern by his senses: But there is not the same case in seeing of a piece of Bread, because there is no ground to think there is any thing in a piece of Bread more than what is discernable by sense.</hi> But, <hi>Sir,</hi> in the first place, suppose I should attack you with your own Argument, I do not see how you would defend your self. I answer then, <hi>For ought that can be proved</hi> there is
+<pb n="3" facs="tcp:102316:2"/>something else. Nay, <hi>Sir,</hi> you cannot but know that the most ap<g ref="char:EOLhyphen"/>proved Philosophers, before Christianity, maintained that in mix'd Bodies there was a <hi>forma regens,</hi> as they termed it; and others at least admitted Elementary Forms, not discernible by the senses. And few rejected these Opinions, till <hi>Des Cartes</hi> raked out of the Ashes of <hi>Epicurus</hi> and <hi>Democritus,</hi> his <hi>Scholastic Nonsense.</hi> Now, <hi>Sir,</hi> prescinding from Christianity, the greatest part of Philoso<g ref="char:EOLhyphen"/>phers stand for me. Is it not then a madness above expression to pawn your Soul <hi>Des Cartes</hi>'s Opinion is true. (I assure you, <hi>Sir,</hi> (by the by) people who are so prodigal of their own Soul, shall ne<g ref="char:EOLhyphen"/>ver have the guiding of mine.) And now, <hi>Sir,</hi> that you stake your Soul on <hi>Des Cartes</hi>'s side, I prove thus: If Christ hath revealed the reality of his Corporal Presence in the B. Sacrament, and you deny it chiefly upon <hi>Des Cartes</hi> Account; you stake your Soul on <hi>Des Cartes</hi>'s his side; but so it is: <hi>Ergo.</hi> I prove the <hi>Minor.</hi> You de<g ref="char:EOLhyphen"/>ny that Christ has revealed his Corporal Presence, because 'tis im<g ref="char:EOLhyphen"/>possible he should: This you prove, because 'tis impossible all our senses should be deceived. When I tell you, <hi>Abraham's were;</hi> you deny it, because to the <hi>making up that Creature we call a Man, there goes something more than what is visible to the eye;</hi> in Bread the case is otherwise, <hi>because there is no ground to think there is any thing in a piece of Bread, more than what is discernible to sense.</hi> Therefore your Salvation or Damnation depends chiefly on the Truth or Falsity of this Opinion. Therefore you lay your Soul on <hi>Des Cates</hi>'s side.</p>
+            <p>And now, <hi>dear Reader,</hi> I appeal to you, Whether our <hi>Anti-Tran<g ref="char:EOLhyphen"/>substantiators,</hi> or <hi>Anti-Reallists,</hi> have so much reason to boast of, to ridicule one of the most Sacred Articles of Christian Belief? An Ar<g ref="char:EOLhyphen"/>ticle as old as Christianity it self, preached by the Apostles, deli<g ref="char:EOLhyphen"/>vered by holy Doctors, sealed with the Blood of Martyrs, and more than once confirmed by General Councils. Shall I call him a Chri<g ref="char:EOLhyphen"/>stian; nay a man, who gives greater credit to a doting <hi>Des Cartes,</hi> than to so many Divine Oracles? No, no; who thus abuses Reason, deserves a place among those Creatures who have none.</p>
+            <p>To illustrate your Answer, (which is very obscure) you bring forth a <hi>Black Dog. Sir,</hi> let me tell you seriously, one of your Com<g ref="char:EOLhyphen"/>munion has been highly scandaliz'd that you should play the Buffoon in so Sacred a matter. And for my part, I am resolv'd my Paper shall not be <hi>black'd</hi> with your <hi>Cur:</hi> yet I must inform the Reader, 'tis more than probable the <hi>Black Dog</hi> bears some similitude with the <hi>Author;</hi> first, as to the <hi>colour;</hi> secondly, they <hi>both snarl</hi> and <hi>bark</hi> to no purpose.</p>
+            <pb n="4" facs="tcp:102316:3"/>
+            <p>Next you accuse me for condemning the Author's Logic. <hi>Sir,</hi> I did, and your self too for defending it. What say you to this way of arguing; <hi>Some Doctors are Ignoramusses in Logic, therefore all are?</hi> You will, without doubt, at least after some hums, grant the Ante<g ref="char:EOLhyphen"/>cedent, and then deny the Consequence. What then will you say to this; <hi>Our senses deceive us in this particular circumstance of the Eu<g ref="char:EOLhyphen"/>charist, therefore they may deceive us in any thing else?</hi> Pray, <hi>Sir,</hi> one reason, Why the Consequence of the first Enthymema must be deny'd, and not of the last? and another if you please, Why these be not universal Inductions from particular Antecedents?</p>
+            <p>
+               <hi>Sir,</hi> because you desire me to give you as good Scripture-proofs for <hi>Transubstantiation</hi> as there is for the <hi>Trinity,</hi> and also to load the Doctrin of the <hi>Trinity,</hi> as delivered by Scripture, with as many Absurdities as follow from <hi>Transubstantiation:</hi> I shall comply with your first demand, and confess ingenuously I cannot with the se<g ref="char:EOLhyphen"/>cond, because no Absurdities follow from the One or the Other; and all those seeming Absurdities you lay on <hi>Transubstantiation,</hi> do rather aim at the <hi>Real Presence:</hi> and so I think it sufficient here to give as good Scripture-proofs for Christ's Corporal Presence. I say then, this passage, <hi>This is my Body,</hi> is as convincing, both for the <hi>Real Presence</hi> and <hi>Transubstantiation</hi> too, as any you can find for the <hi>Trinity;</hi> nor is there any Text in all the Scripture which opposes it. Now for the <hi>Trinity</hi> what place will you allege? <hi>Mat.</hi> 28.19. <hi>Go ye therefore, and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost: I and my Father am one:</hi> Or, in fine, <hi>There are Three who bear record in Heaven, the Father, and the Word, and the Holy Ghost; and these Three are One,</hi> Ep. Jo. 5.7. Now, <hi>Sir,</hi> an <hi>Arian</hi> will draw from Scripture stronger Arguments to oppugn these Texts, than you can for your life to enervate mine, <hi>This is my Body.</hi> And first, if an <hi>Arian</hi> tells you it does not follow the <hi>Three</hi> Persons are <hi>One,</hi> because the Apostles were commanded to baptize in the Name of them <hi>All;</hi> How will you disprove him? If you say, Christ affirm'd <hi>He</hi> and his <hi>Father</hi> were <hi>One;</hi> he will run to the other place, <hi>My Father is greater than I.</hi> If again you send him to St. <hi>John Ep.</hi> 1.5. he will tell you it proves nothing, because the verse following explicates the precedent, <hi>ibid.</hi> 8. <hi>And there are Three that bear witness in Earth, the Spirit, and the Water, and the Blood; and these Three are One:</hi> Now 'tis evident these Three are not One substantially; therefore, says an <hi>Arian,</hi> nor the for<g ref="char:EOLhyphen"/>mer. I know in your Bible, to wave the difficulty, you tran<g ref="char:EOLhyphen"/>slate
+<pb n="5" facs="tcp:102316:3"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>And these Three agree in One;</hi> but with what Authority? But still an <hi>Arian</hi> will push on further, we read in <hi>John</hi> 17.21. where Christ pray'd, <hi>That they All may be One, as Thou, Father, art in Me, and I in Thee; that They also may be One in Ʋs.</hi> And again, <hi>ibid.</hi> 22. <hi>That They may be One, even as We are One.</hi> He will argue so; Christ is only <hi>One</hi> with his Father, as 'tis possible for the Disciples to be <hi>One:</hi> But 'tis possible for the Dis<g ref="char:EOLhyphen"/>ciples to be <hi>One</hi> only in <hi>Affection,</hi> not in <hi>Substance;</hi> therefore Christ is only <hi>One in Affection</hi> with his Father, not in <hi>Substance.</hi> Shew me, if you can, out of Scripture as seeming evidences against the Do<g ref="char:EOLhyphen"/>ctrin of Catholics concerning this Sacrament. But this will <hi>be a long while a doing,</hi> and therefore I shall shew you that the Doctrin of the Trinity-contradicts this Maxim, <hi>Quae conveniunt in uno tertio conveniunt inter se,</hi> in the true sense of it. This Principle asserts, That <hi>when two things agree with a third, they agree with themselves;</hi> therefore in the Blessed Trinity, if <hi>two things</hi> which agree with a <hi>third,</hi> do not agree with <hi>themselves,</hi> the Doctrin of the Trinity contradicts the Principle: But in the Trinity two things which agree with a <hi>third,</hi> do <hi>not</hi> agree with <hi>themselves;</hi> therefore the Doctrin of the Trinity contradicts the fore-mention'd Maxim. I prove it thus: <hi>The person of the Son is the same with the Divine Essence, as also the person of the Father is identified with the same Divine Es<g ref="char:EOLhyphen"/>sence; therefore they agree with a third: But the person of the Son is not the same with the person of the Father; therefore the two persons which agree with a third, do not agree with themselves.</hi> Have I not perform'd my promise, <hi>Sir?</hi>
+            </p>
+            <p>Your last quarrel against me is, That I have proposed an insuf<g ref="char:EOLhyphen"/>ficient method to convert an understanding Infidel. But let us see from whnce arises the grounds of insufficiency? I will change my <hi>Infidel</hi> into a <hi>Protestant Minister</hi> for the present, and ask him, If he will admit there is a God? I suppose he will not deny it, out of a fear of passing for a <hi>Papist.</hi> I will proceed farther, and en<g ref="char:EOLhyphen"/>quire, Whether god does not see some Truths, which never a Member of the University can conceive? He must grant it, or eat up his first Concession, because otherwise God would not be infi<g ref="char:EOLhyphen"/>nitly Wise, and by consequence no God. <hi>Thirdly,</hi> I would de<g ref="char:EOLhyphen"/>mand, Whether God cannot reveal those Truths, and command his Creatures to believe them? This also he must grant me, under pain of being one of those Fools mentioned by <hi>David, The Food
+<pb n="6" facs="tcp:102316:4"/>said in his heart there is no God.</hi> In fine, I would ask this Minister, What evidence he required to be assured that God had revealed these Truths? If he be a rational Creature, he would answer me, Such a one as no prudent man could doubt of. Now, it nos all moral evidence of this nature? Therefore, seeing there is all the moral e<g ref="char:EOLhyphen"/>vidence in the world that the Scripture is the Word of God, this Minister cannot rationally deny but whatever is contained in it is true. He must therefore (whatever his Reason dictates to the con<g ref="char:EOLhyphen"/>trary) confess, that the old Philosophical Principle, <hi>Ex nihilo nihil fit,</hi> is false, as well as the other, <hi>Quae conveniunt in uno ter tio conveniunt inter se;</hi> as also, he must grant that our senses may be mistaken, or dash out of the Bible the apparition of Angels to <hi>Abraham, Jacob, &amp;c.</hi> Nor is it necessary that God give us other Faculties before he reveal these Truths, because my Reason tells me God can do things above my capacity; and therefore, seeing I cannot doubt of the Revela<g ref="char:EOLhyphen"/>tion, I must conclude in these circumstances, my Sense and Reason are deceived. Shew me a more efficacious way to reduce an Infidel, if you can.</p>
+            <p>Now, <hi>Sir,</hi> I have made my first promise good, and what I add is <hi>ex abundanti.</hi>
+            </p>
+            <p>You tell us, <hi>Papists can never prove Transubstantiation, till they first prove themselves infallible in interpreting Scriptures.</hi> Seeing, <hi>Sir,</hi> you are confident with me, I will take the boldness to use the same free<g ref="char:EOLhyphen"/>dom; and therefore I tell you, till you can prove the Church of <hi>England</hi> is <hi>infallible</hi> in interpreting Scripture, I will never believe they cannot; for, <hi>Sir,</hi> I am not so devoted to sense and prejudice, as quite to neglect my Reason. Seeing therefore the Papists chal<g ref="char:EOLhyphen"/>lenge both Scriptures, Fathers, and General Councils, for the sup<g ref="char:EOLhyphen"/>port of their Doctrin, and shrewd Arguments too (upon my word) to demonstrate their Churches Infallibility; why shall I brand them with <hi>Idolatry, Superstition, &amp;c.</hi> at the instigation of a Church which tells me, <hi>Sir,</hi> I may be mistaken? But after all; you wil not believe that God hath revealed this Mystery; but why? because it is im<g ref="char:EOLhyphen"/>possible he should. May not an Infidel on the same grounds deny the very first verse of the Bible, <hi>In the beginning God created Heaven and Earth?</hi> If he should tell you, God hath not revealed this Truth, because 'tis impossible he should; what would you answer but this? Friend, you are an impertinent Fellow. But let us examin your Reasons; the first is, Because our senses tell us 'tis Bread, This
+<pb n="7" facs="tcp:102316:4"/>is answered already; so I go to the second, drawn from our reason, which tells us, That one and the same Body cannot be in several places. <hi>First,</hi> this Argument falls as heavy on your elder Brethren the <hi>Lutherans</hi> of <hi>Germany;</hi> nay, and on Bishop <hi>Andrews, Taylor, Casaubon, &amp;c.</hi> (who held the <hi>Real Presence</hi>) as on <hi>Papists;</hi> so that methinks a <hi>Church-of-England-man</hi> should never hector against <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> with such an Argument, which equally presseth his Brethren in Christ the Protestants: but experience teaches us, that passion is a blind Monster, which makes no distinction between Friends and Foes; it tramples on those, that it may sacrifice these to its fury. <hi>Secondly,</hi> Sir, let me ask you upon what Principle your Reason founds the impossibility of the same thing's being in several places? Is it upon this, that <hi>a thing cannot be here, and not here, at the same time?</hi> Good Sir, shew me by what Logic <hi>to be here and there,</hi> is the same as <hi>to be here and not here?</hi> But this is not all; you have ano<g ref="char:EOLhyphen"/>ther retrenchment still, <hi>viz.</hi> it cannot be that the <hi>whole Body of a man be crowded into the compass of a pins head.</hi> This you affirm; but I see no reason, only an <hi>ipse dixit,</hi> which will never pass for a Demon<g ref="char:EOLhyphen"/>stration with me. But if your Doctrin be true, how came our Sa<g ref="char:EOLhyphen"/>vior into the Chamber when the doors were shut? This question has put some of your Gentlemen to a <hi>non-plus,</hi> who at length choose rather to speak <hi>Nonsense,</hi> than <hi>nothing at all.</hi> Some say then he came in at the Window, others at the Chimney, another at the Key-hole: but above all, commend me to a Learned Doctor, who being asked how it was possible for Christ to enter into the Room, the doors lock'd, unless his Body were contracted, gave this (I will not say foolish, but) impious Answer, and, as I am told, under his hand, <hi>You know to what perfection our Picklocks are come, we must give a little more dexterity to our Savior.</hi> Had a <hi>Jew</hi> or a <hi>Turk</hi> (dear Reader) vomit<g ref="char:EOLhyphen"/>ed out such a blasphemous comparison, I should rather have <hi>pitied his ignorance,</hi> than <hi>blamed his malice;</hi> but for a man who professeth Christianity, who preacheth the Gospel, thus to prophane it, is insupportable.</p>
+            <p>
+               <hi>Sir,</hi> if you know this Gentleman (as probably you may;) teach him better manners, than thus to turn his Raileries on his Savior; bring him to his wits, if his frenzy be not past cure, and persuade him from explicating more Scripture, if he cannot do it without a crime. As for my Conclusion, <hi>Sir,</hi> it threatens the Doctor with
+<pb n="8" facs="tcp:102316:5"/>no punishment <hi>here,</hi> I assure you, but in the <hi>world to come;</hi> and I fear he is resolved to try the truth of it, out of a meer punctilio. So, <hi>Sir,</hi> I leave you, only desiring you to tell me the meaning of these words, <hi>All the danger we fear for opposing that Church (in this way of Disputation) is wholly in this world.</hi> If I understand it rightly, 'tis a reflecting Proposition, and seems to squint on a Peron whom your Duty obliges you to reverence. But if your apprehension comes from your Fellow-Subjects the Papists, you may sleep se<g ref="char:EOLhyphen"/>curely, and never fear <hi>to rise in the morning with your throat cut.</hi>
+            </p>
+            <closer>
+               <salute>Sir, Farewell.</salute>
+               <signed>Yours, <hi>W. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Most Excel<g ref="char:EOLhyphen"/>lent Majesty for His Houshold and Chappel; and are to be sold at his Printing-house on the Ditch-side in <hi>Black-Fryars.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
